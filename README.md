@@ -1,17 +1,17 @@
 # Hi, I'm Syed Hussain Ali 👋
 
-### Frontend Developer | React.js & Next.js | UI/UX Designer
+### Web Developer | React.js, Next.js  | Expreess.js, Node.js | UI/UX Designer 
 
-I'm a Computer Science student at KIET passionate about building modern, responsive, and user-friendly web and mobile applications. I enjoy transforming ideas into practical digital products through clean code, thoughtful UI/UX design, and AI-assisted development.
+I'm a Computer Science student passionate about building modern, responsive, and user-friendly web and mobile applications. I enjoy transforming ideas into practical digital products through clean code, thoughtful UI/UX design, and AI-assisted development.
 
 - 🎓 Pursuing a BS in Computer Science at KIET
-- 💻 Focused on React.js, Next.js, TypeScript, and frontend engineering
-- 📱 Exploring mobile application development with React Native and Flutter
-- 🎨 Interested in UI/UX design, responsive interfaces, and design systems
-- ⚙️ Exploring full-stack development, REST APIs, and database integration
-- 🤖 Building and experimenting with AI-powered applications
-- 🚀 Currently working on SYNK, a university-focused student and alumni platform
+- 💻 Focused on full-stack web development, building modern and scalable web applications
+- 📱 Exploring mobile app development with React Native and Flutter
+- 🎨 Passionate about UI/UX design, responsive interfaces, and user-centered experiences
+- ⚙️ Working with backend development, REST APIs, databases, and authentication
+- 🤖 Exploring AI integration and AI-powered application development
 
+  
 🌐 **Portfolio:** [Visit My Portfolio](https://syed-hussain-ali-portfolio.vercel.app)
 
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hussain-ali-aa138824b/)
