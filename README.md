@@ -1,6 +1,6 @@
 # Hi, I'm Syed Hussain Ali 👋
 
-### Full-Stack Web Developer | React.js, Next.js, Node.js, Express.js | REST APIs | UI/UX Designer | AI Integration
+### Software Developer | React.js, Next.js, Node.js, Express.js | REST APIs | UI/UX Designer | AI Integration
 
 I'm a Computer Science student passionate about building modern, responsive, and user-friendly web and mobile applications. I enjoy transforming ideas into practical digital products through clean code, thoughtful UI/UX design, and AI-assisted development.
 
