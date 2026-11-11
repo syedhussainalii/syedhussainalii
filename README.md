@@ -5,13 +5,21 @@
 I'm a Computer Science student passionate about building modern, responsive, and user-friendly web and mobile applications. I enjoy transforming ideas into practical digital products through clean code, thoughtful UI/UX design, and AI-assisted development.
 
 🎓 Pursuing a Bachelor's degree in Computer Science at KIET.
+
 💻 Frontend Development: React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5 & CSS3.
+
 ⚙️ Backend Development: Node.js, Express.js, RESTful API development, server-side logic, and authentication.
+
 🗄️ Databases: PostgreSQL, MongoDB, MySQL, Firebase & Supabase.
+
 🔗 API Integration: Building and integrating REST APIs, handling JSON data, and connecting frontend applications with backend services.
+
 🤖 AI & Generative AI: Exploring LLMs, AI-powered applications, Generative AI, and AI API integration.
+
 🎨 UI/UX Design: Figma, Adobe XD, responsive interfaces, prototyping, and user-centered design.
+
 📱 Mobile Development: Exploring React Native and Flutter to build cross-platform applications.
+
 🚀 Passionate about learning new technologies, solving real-world problems, and building meaningful digital products.
 
 🌐 **Portfolio:** [Visit My Portfolio](https://syed-hussain-ali-portfolio.vercel.app)
