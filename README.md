@@ -1,17 +1,19 @@
 # Hi, I'm Syed Hussain Ali 👋
 
-### Web Developer | React.js, Next.js  | Expreess.js, Node.js | UI/UX Designer 
+### Full-Stack Web Developer | React.js, Next.js, Node.js, Express.js | REST APIs | UI/UX Designer | AI Integration
 
 I'm a Computer Science student passionate about building modern, responsive, and user-friendly web and mobile applications. I enjoy transforming ideas into practical digital products through clean code, thoughtful UI/UX design, and AI-assisted development.
 
-- 🎓 Pursuing a BS in Computer Science at KIET
-- 💻 Focused on full-stack web development, building modern and scalable web applications
-- 📱 Exploring mobile app development with React Native and Flutter
-- 🎨 Passionate about UI/UX design, responsive interfaces, and user-centered experiences
-- ⚙️ Working with backend development, REST APIs, databases, and authentication
-- 🤖 Exploring AI integration and AI-powered application development
+🎓 Pursuing a Bachelor's degree in Computer Science at KIET.
+💻 Frontend Development: React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5 & CSS3.
+⚙️ Backend Development: Node.js, Express.js, RESTful API development, server-side logic, and authentication.
+🗄️ Databases: PostgreSQL, MongoDB, MySQL, Firebase & Supabase.
+🔗 API Integration: Building and integrating REST APIs, handling JSON data, and connecting frontend applications with backend services.
+🤖 AI & Generative AI: Exploring LLMs, AI-powered applications, Generative AI, and AI API integration.
+🎨 UI/UX Design: Figma, Adobe XD, responsive interfaces, prototyping, and user-centered design.
+📱 Mobile Development: Exploring React Native and Flutter to build cross-platform applications.
+🚀 Passionate about learning new technologies, solving real-world problems, and building meaningful digital products.
 
-  
 🌐 **Portfolio:** [Visit My Portfolio](https://syed-hussain-ali-portfolio.vercel.app)
 
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hussain-ali-aa138824b/)
@@ -24,10 +26,6 @@ I'm a Computer Science student passionate about building modern, responsive, and
 
 ![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite)
 
-### Mobile Development
-
-![Mobile Skills](https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,java)
-
 ### Backend Development & APIs
 
 ![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,cs)
@@ -39,6 +37,10 @@ I'm a Computer Science student passionate about building modern, responsive, and
 ### UI/UX Design & Creative Tools
 
 ![Design Skills](https://skillicons.dev/icons?i=figma,ai,ps)
+
+### Mobile Development
+
+![Mobile Skills](https://skillicons.dev/icons?i=react,flutter,dart,androidstudio)
 
 ### Development Tools
 
